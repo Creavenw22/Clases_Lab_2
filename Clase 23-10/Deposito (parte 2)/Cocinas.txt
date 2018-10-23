@@ -1,0 +1,14 @@
+Capacidad maxima: 5
+Cocinas en el deposito: 
+
+Codigo: 111 
+Precio: 12300,00
+Es industrial: False
+
+
+Codigo: 113 
+Precio: 5600,00
+Es industrial: False
+
+
+
