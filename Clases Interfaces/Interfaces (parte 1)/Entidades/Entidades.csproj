@@ -46,6 +46,8 @@
     <Compile Include="Comercial.cs" />
     <Compile Include="Deportivo.cs" />
     <Compile Include="Familiar.cs" />
+    <Compile Include="Gestion.cs" />
+    <Compile Include="IAFIP.cs" />
     <Compile Include="Privado.cs" />
     <Compile Include="Vehiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
